@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css1/style.css">
+    <title>AKTIVITETE - OH EL HILAL</title>
+</head>
+<body>
+       <header>
+        <div class="logo-container">
+            <img src="path/to/your/logo.png" alt="BARAKAH NMK Logo" class="logo">
+            <h1>BARAKAH NMK</h1>
+        <!-- Add any additional header content if needed -->
+    </header>
+      
+        <!-- Navigation links can be added here if necessary -->
+       <nav class="nav">
+            <ul>
+                <li><a href="#home">HOME</a></li>
+                <li><a href="#donate">DONATE</a></li>
+                <li><a href="#activities">ACTIVITIES</a></li>
+                <li><a href="#contact">CONTACT</a></li>
+            </ul>
+        </nav>
+
+    <main>
+        <section class="activity">
+            <img src="/assets/IMG/palestine.png" alt="palestina">
+            <h2>Activity Title 1</h2>
+            <p>Description of the activity goes here. Provide relevant details and information.</p>
+            <a href="#">Learn More</a>
+        </section>
+
+        <section class="activity">
+            <img src="activity2.jpg" alt="Activity 2 Image">
+            <h2>Activity Title 2</h2>
+            <p>Description of the activity goes here. Provide relevant details and information.</p>
+            <a href="#">Learn More</a>
+        </section>
+
+        <!-- Add more activity sections as needed -->
+
+    </main>
+
+    <footer>
+        <!-- Footer content can be added here -->
+    </footer>
+</body>
+</html>
